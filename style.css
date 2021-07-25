@@ -13,7 +13,7 @@
     scroll-behavior: smooth;
 }
 *::selection{
-    color: #333;
+    color: #fff;
     background-color: blue;
 }
 html{
